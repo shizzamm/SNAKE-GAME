@@ -1,6 +1,6 @@
-# 🐍 Snake Game
+# 🐍 Snake Game 
 
-A classic **Snake Game** built using **Python** and **Pygame** with a clean interface, smooth gameplay, persistent high score tracking, and dynamic difficulty. Control the snake, collect food, grow longer, and challenge yourself to beat your highest score!
+A classic **Snake Game** built using **Python** and **Pygame** with a clean interface, smooth gameplay, persistent high score tracking, and dynamic difficulty. Control the snake, collect food, grow longer, and challenge yourself to beat your highest score!!!
 
 ---
 
